@@ -2,7 +2,8 @@
 
 An interactive Power BI dashboard built on an automated ETL pipeline, tracking $68M+ in mobile phone sales across 5 major brands and 12+ Indian cities.
 
-![Dashboard Preview](assets/overview.png)
+![Dashboard Preview](<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/71c52874-6a8b-4412-967a-757b67739937" />
+)
 
 ---
 
@@ -81,7 +82,7 @@ A mobile retail business needs visibility into which brands, models, cities, and
 
 ## 🚀 How to View
 
-1. Download the `.pbix` file from this repo (or via the link below if uploaded to Drive)
+1. Download the `.pbix` file from this repo (https://drive.google.com/file/d/1TW6ZLy6lVhh9mOH6sEK6WKR31AmxNZW2/view?usp=sharing)
 2. Open in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
 
 ---
