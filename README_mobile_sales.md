@@ -2,8 +2,8 @@
 
 An interactive Power BI dashboard built on an automated ETL pipeline, tracking $68M+ in mobile phone sales across 5 major brands and 12+ Indian cities.
 
-![Dashboard Preview](<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/71c52874-6a8b-4412-967a-757b67739937" />
-)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/51e4f50f-48f2-4337-9da2-5be6e08b0049" />
+
 
 ---
 
